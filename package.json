@@ -1,0 +1,28 @@
+{
+  "name": "personaldataproject",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful api",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/28831810/personalDataProject.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Ryno COnradie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/28831810/personalDataProject/issues"
+  },
+  "homepage": "https://github.com/28831810/personalDataProject#readme"
+}
